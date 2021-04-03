@@ -1,5 +1,5 @@
 # Interviewbit-solutions
-This repository contains solutions of Interviewbit problems topicwise
+This repository contains topicwise solutions of Interviewbit problems in C++ 
 
 Topics
 
