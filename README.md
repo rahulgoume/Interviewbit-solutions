@@ -1,2 +1,3 @@
 # Interviewbit-solutions
-This repository contains solutions of interviewbit problems topicwise 
+This repository contains solutions of Interviewbit problems topicwise 
+
